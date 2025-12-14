@@ -28,6 +28,7 @@
 *                             pos1-tropopt, pos1-sateph, pos1-navsys,
 *                             pos2-gloarmode,
 *-----------------------------------------------------------------------------*/
+#include <stdio.h>
 #define _POSIX_C_SOURCE 199506
 #include "rtklib.h"
 
